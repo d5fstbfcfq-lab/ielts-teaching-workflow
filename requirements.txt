@@ -1,0 +1,3 @@
+# Optional: needed only for the PPTX audit and its tests.
+# 可选：仅 PPTX 检查及其测试需要此依赖。
+python-pptx==1.0.2

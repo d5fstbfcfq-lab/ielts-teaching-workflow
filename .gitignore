@@ -1,0 +1,26 @@
+# Local classroom work / 本地教学工作
+/local/
+/output/
+/dist/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Source teaching files and recordings stay outside the public repository.
+# 原始教学文件和录音不进入公开仓库。
+*.pptx
+*.potx
+*.pdf
+*.docx
+*.xlsx
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.mov
+*.zip
