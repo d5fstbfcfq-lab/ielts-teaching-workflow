@@ -1,0 +1,4 @@
+interface:
+  display_name: "IELTS Speaking Workflow · 雅思口语教学"
+  short_description: "Plan, create and review IELTS speaking lesson materials"
+  default_prompt: "Use $ielts-speaking-workflow to help me plan, create, or review IELTS speaking lesson materials from my brief and sources. / 请根据我的需求和材料完成雅思口语备课或课件任务。"
