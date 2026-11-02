@@ -8,8 +8,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SKILL = ROOT / "skills/ielts-speaking-workflow"
 OUTPUT = ROOT / "chatgpt/IELTS-speaking-workflow.md"
-PARTS = ["SKILL.md", "references/workflow.md", "references/celta.md", "references/quality.md",
-         "references/sources.md", "assets/templates/lesson-brief.md", "assets/templates/materials-register.md",
+PARTS = ["SKILL.md", "references/workflow.md", "references/celta.md", "references/speaking-support.md",
+         "references/feedback-evidence.md", "references/quality.md", "references/sources.md",
+         "assets/templates/lesson-brief.md", "assets/templates/materials-register.md",
          "assets/templates/slide-outline.md", "assets/templates/review-report.md", "LICENSE"]
 
 
