@@ -24,11 +24,19 @@ These are choices, not mandatory slide sequences. A speaking lesson can combine 
 
 这些是教学选择，不是固定页序，口语课可以组合使用。重复题目若服务于更深入表达，可以保留；无学习增量的重复讲解可精简。
 
+Distinguish understanding a question from organizing an answer. An initial attempt can reveal either need when appropriate to the learners; it need not meet the final performance target. Use the findings to choose support without forcing Test–Teach–Test into every lesson.
+
+区分“听懂题目”与“组织回答”。按学员情况安排的前置尝试可帮助发现相应需要，不要求初次表现达到最终目标；依据发现选择支架，不强制每课采用 Test–Teach–Test。
+
 ## Language analysis / 语言分析
 
 Before teaching a language item, consider meaning, form, pronunciation, and appropriacy. Choose relevant aspects rather than mechanically filling every category. Contextualize examples and anticipate likely learner difficulties. Keep model language natural and useful beyond a memorized answer.
 
 教授语言点前，分析意义、形式、发音和得体性。选择与当前任务相关的维度，不机械填满所有栏目。示例应有情境，预判学生困难，语言自然且可迁移，避免只服务于背诵答案。
+
+For answer construction, functional language banks, semantic alignment, and substitution, use [speaking support](speaking-support.md). Check both the reasoning and the resulting language; an outline alone does not establish that learners can produce the intended response.
+
+答案生成、功能语言库、语义对应及替换练习见[口语支架](speaking-support.md)。同时核对思路和实际表达；仅有框架不能证明学生已能完成目标回答。
 
 ## Instructions and understanding / 指令与理解
 
