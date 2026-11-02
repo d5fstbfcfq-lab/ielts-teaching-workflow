@@ -19,6 +19,10 @@ Help a teacher move from their own materials and learning aims to usable lesson 
 3. Read [the workflow](references/workflow.md) for the requested branch. For teaching design or a pedagogical review, also read [CELTA-informed guidance](references/celta.md). For a PPT task, read [quality review](references/quality.md). For exam facts or source handling, read [sources](references/sources.md).
    按当前任务读取[工作流](references/workflow.md)；教学设计或教学审查加读 [CELTA 指导](references/celta.md)，PPT 任务加读[质量检查](references/quality.md)，考试事实与材料来源处理加读[来源规范](references/sources.md)。
 
+For answer frameworks, model responses, language banks, or substitution practice, read [speaking support](references/speaking-support.md). When interpreting supplied teaching feedback or recordings, read [feedback evidence](references/feedback-evidence.md). These references provide general methods, without bundled lesson examples or a required recording service.
+
+涉及回答框架、示范、语言库或替换练习时，读取[口语支架](references/speaking-support.md)；解释所给教学反馈或录音录像时，读取[反馈证据](references/feedback-evidence.md)。两份参考提供通用方法，不附课程实例，也不要求特定转写服务。
+
 ## Keep the output honest / 如实说明交付能力
 
 - With file tools: create or edit the requested editable PPTX, inspect the actual saved file, and render it when possible. Report the verification environment and any incomplete checks.

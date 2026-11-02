@@ -2,7 +2,11 @@
 
 [简体中文](README.zh-CN.md)
 
-A bilingual workflow for IELTS speaking teachers using **Codex or ChatGPT**. Use your own brief and materials to plan courses and lessons, organize sources, create slides, and review or revise teaching decks.
+Bilingual IELTS speaking teaching workflow for Codex and ChatGPT: planning, materials, slides, review and quality checks.
+
+This is the first workflow I've put together since I started using AI. Feedback and suggestions are welcome through [Issues](https://github.com/d5fstbfcfq-lab/ielts-teaching-workflow/issues) or a pull request.
+
+Use your own brief and materials to plan courses and lessons, organize sources, create slides, and review or revise teaching decks.
 
 The first release focuses on **speaking** and covers the full preparation and courseware process. Listening, reading, and writing teaching workflows are outside this release.
 
@@ -10,10 +14,11 @@ The first release focuses on **speaking** and covers the full preparation and co
 
 | Work | Result |
 |---|---|
-| Course and lesson planning | Learner needs, progression, observable outcomes, scope, and appropriate CELTA-informed methods |
+| Course and lesson planning | Learner needs, progression, observable outcomes, scope, CELTA-informed methods, and aim-to-practice alignment |
 | Material organization | Source/version register, adaptation boundaries, usable input, and gaps |
 | Slide creation | A usable slide outline; an editable PPTX when the host has suitable file tools |
 | Review and revision | Displayed page numbers, evidence, recommendations, and verified changes |
+| Feedback analysis | Source/version and time references; separate advice, teacher decisions, observations, and analysis |
 | Quality checks | Language and teaching review, optional mechanical PPTX checks, and rendered inspection when available |
 | Continuation | Current artifact, decisions, unresolved items, and next step |
 
@@ -25,7 +30,7 @@ The repository contains instructions, prompts, blank templates, and an optional 
 2. Upload it to a regular chat or add it to a project's sources, alongside materials you are entitled to use.
 3. Copy the English or Chinese prompt from [START.md](chatgpt/START.md), fill the relevant fields, and describe your task.
 
-The upload document includes the workflow, CELTA-informed guidance, quality criteria, source boundaries, and blank templates. No custom GPT is required.
+The upload document includes the workflow, CELTA-informed guidance, speaking support, feedback evidence, quality criteria, source boundaries, and blank templates. No custom GPT is required.
 
 When the chat has suitable file tools, request the actual editable PPTX. Otherwise it should provide complete slide content or review recommendations and state that no PPTX was created or changed. Text extraction alone cannot verify slide appearance or pronunciation.
 
@@ -72,7 +77,7 @@ python scripts/build_chatgpt.py --check
 python -m unittest discover -s tests -v
 ```
 
-Tests use temporary synthetic files containing no course examples. GitHub Actions runs the bundle check and file-behavior tests on pushes and pull requests. See [contributing](CONTRIBUTING.md) and [release scope](docs/design/open-source-scope.md).
+Tests use temporary synthetic files containing no course examples. Package checks detect missing bundled references, broken local links, and stale uploads. GitHub Actions runs these and the file-behavior tests on pushes and pull requests. See [contributing](CONTRIBUTING.md) and [release scope](docs/design/open-source-scope.md).
 
 ## Sources and license
 

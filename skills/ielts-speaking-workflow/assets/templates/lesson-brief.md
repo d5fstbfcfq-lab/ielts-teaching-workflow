@@ -8,7 +8,9 @@ Blank template. Fill only the fields needed for the task; this contains no lesso
 |---|---|
 | Task and current stage / 任务与当前阶段 | |
 | Learner needs and observed ability / 学员需求与已知水平 | |
+| Agreed course aim / 已确认课程目标 | |
 | Target outcome / 可观察学习成果 | |
+| Alignment of aim, outcome, support, model, and practice / 目标、输出、支架、示范与练习的一致性 | |
 | Speaking focus and boundaries / 口语重点与范围边界 | |
 | Time and teaching context / 课时与授课情境 | |
 | Supplied materials and versions / 已提供材料及版本 | |

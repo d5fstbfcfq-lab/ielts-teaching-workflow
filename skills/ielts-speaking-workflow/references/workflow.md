@@ -7,6 +7,7 @@
 | Course planning / 课程规划 | Map learner needs, progression, recurring practice, and observable outcomes. Do not generate every lesson unless requested. / 规划需求、能力进阶、练习与可观察成果；仅在要求时制作所有课次。 |
 | New lesson / 新课次 | Agree the brief, choose a teaching structure, develop material and tasks, then produce and check the requested deliverable. / 明确约定、选择教学结构、设计材料与任务，制作并检查所需交付物。 |
 | Review only / 仅审查 | Inspect the supplied version and report page-specific findings and recommendations. Leave the source file unchanged. / 检查所给版本，报告具体页码、问题与建议，保留源文件。 |
+| Feedback analysis / 反馈分析 | Identify source/version and location, distinguish advice from observations and decisions, and propose relevant teaching changes. Do not revise files unless requested. / 记录来源、版本与定位，区分建议、观察与确认，提出相关教学改进；未要求修改时不改文件。 |
 | Revision / 修改 | Inspect the actual deck, preserve useful structure and manual edits, implement requested changes, then verify the result. Follow any requested proposal checkpoint. / 检查实际课件，保留合理结构与手动调整，按要求修改并复核；遵从用户要求的方案确认点。 |
 | Continue / 续做 | Read the current brief and latest actual file. Resume the same work and flag conflicts with older notes. / 读取当前约定和实际文件，接续同一任务；发现旧记录冲突时说明。 |
 
@@ -29,15 +30,27 @@ Do not ask for student names, identifiable recordings, or institutional backgrou
 
 不为备课额外索要学生姓名、可识别录音或机构背景。ChatGPT 使用上传或粘贴的材料，不假定能访问电脑文件夹。
 
+Check the chain from the agreed course aim to the lesson outcome, answer structure and language support, model response, and practice requirements. A corrected target must reach all of these, rather than changing only a cover label. Shorter steps or first-language support can reduce processing demands while preserving the agreed outcome.
+
+核对“已确认课程目标 → 本课输出 → 结构与语言支架 → 完整示范 → 练习要求”。目标变更应贯穿这些内容，不能只更换封面标签；分步处理或母语支持可以降低理解负担，同时保留约定的学习目标。
+
 ## 3. Organize materials / 整理材料
 
 Build a short source register rather than copying an entire library. Check question wording, answer relevance, speaker context, vocabulary load, and whether the material supports the aim. Keep originals distinct from adaptations. If the source is unavailable, label the gap; do not reconstruct a supposedly official question or answer from memory.
 
 建立简短材料登记，不复制整套资料库。核对题目、答案相关性、说话情境、词汇负担及目标适配。原文与改编分开；来源不可得时标明缺项，不凭记忆重构“官方”题目或答案。
 
+Permission to adapt a model response does not by itself permit rewriting its source question. Preserve supplied wording within the agreed scope; identify proposed question changes and their effect on the task before adopting them.
+
+允许改编参考回答不等于允许改写题干。按约定保留原题；需要改题时，先说明拟改内容及其对任务的影响。
+
 For recordings, use actual audio when supported; otherwise request a supplied transcript or offer a text-only route. Identify transcription uncertainty. Remove identifying details from examples only when adapting content is permitted.
 
 录音任务在工具支持时使用音频，否则请求已有转写或提供纯文本路径，标明转写不确定处。改编获得允许后，才对使用中的案例进行去标识处理。
+
+For feedback-driven revision, use [feedback evidence](feedback-evidence.md) to distinguish advice, teacher decisions, direct observations, and analysis, with timestamps and source versions where available.
+
+依据反馈修改时，按[反馈证据](feedback-evidence.md)区分建议、教师确认、直接观察与分析；有条件时记录时间定位和源版本。
 
 ## 4. Design the learning sequence / 设计教学顺序
 
@@ -49,6 +62,14 @@ Adapt to the selected speaking task: personal experience, a sustained individual
 
 根据任务选择支架：个人经历、持续独立表达与较深入讨论的需要不同。正式考试事实须查官方来源，不把某种答题公式、背诵稿或教学法说成统一评分要求。
 
+Keep a factual exam overview focused on verified format, the three speaking tasks, official timings, and assessment criteria. Put questions, answer strategies, speaking techniques, and example sentences in a distinct teaching or practice activity. Choose the overview's position and duration from the brief and learner needs; do not turn one trial lesson's schedule into a universal rule.
+
+纯考试介绍聚焦已核实的考试形式、三部分任务、正式时间与评分标准；题目、答题策略、口语技巧和实用例句放在单独安排的教学或讲练环节。介绍的位置与时长取决于本课约定和学员需要，不把某节试听课的安排当作通用规则。
+
+When teaching how to build an answer, use [speaking support](speaking-support.md) to make each step usable and to match the development to the question. Protect time for the agreed complete response, as well as any useful work on individual sentences.
+
+教授答案组织时，按[口语支架](speaking-support.md)把每一步落实为可用表达，并按题干选择展开方式。局部句型练习之外，也为约定的完整表达保留时间。
+
 Connect each important input point to an example and an opportunity to apply it when useful. Choose whether these belong on the same slide, later slides, a worksheet, or oral teaching. The connection matters more than a fixed page sequence.
 
 让重要输入与示范和适当运用相连；按学习需要决定放在同页、后续页、练习材料或口头教学中，不固定页面顺序。
@@ -58,6 +79,10 @@ Connect each important input point to an example and an opportunity to apply it 
 Draft an outline with page purpose, learner-visible content, supporting visuals, and any dependencies. Keep language natural, specific, and reusable. Model responses should demonstrate useful choices at an appropriate level; describe any estimated band as provisional rather than a guaranteed score.
 
 逐页写明用途、学生可见内容、视觉支持和前后依赖。语言自然、具体且可替换；参考回答用于展示合适水平的表达选择，任何估计分数都应说明只是参考，不能保证成绩。
+
+In Chinese workflow guidance, use “口语技巧” for speaking techniques and “实用例句” for reusable example sentences. Choose slide titles and the placement of these elements for the teacher's brief; the terminology does not impose fixed page titles or one page per element.
+
+中文工作流统一用“口语技巧”和“实用例句”。课件标题及两类内容的位置仍按教师约定选择，这套用词不强制固定页标题，也不要求每项独占一页。
 
 Let the audience determine where information belongs. Students may need questions, explanations, examples, genuine instructions, feedback, and taught self-check strategies. Teacher rationale and observation records normally belong in teacher guidance. Speaker notes, timing, grouping, and feedback pages are choices to agree with the teacher, not universal prohibitions or requirements.
 

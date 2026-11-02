@@ -10,6 +10,19 @@ Check source fidelity, question–answer relevance, natural spoken English, suit
 
 核对来源忠实性、题答相关性、口语自然度、水平适配及原文与改编的区别。示范回答应服务于目标语言或口语能力。AI 估计只作参考，不从转写文本推断发音。
 
+For answer frameworks, models, language banks, or substitution, use [speaking support](speaking-support.md) and inspect the actual material:
+
+涉及回答框架、示范、语言库或替换练习时，按[口语支架](speaking-support.md)检查实际材料：
+
+- Do the model and practice reach the agreed outcome, including after a target change? / 示范与练习是否达到约定目标，目标变更后是否同步？
+- Can learners turn the structure and support into the intended response? / 学生能否借助结构与支架形成目标回答？
+- Do the question, plan, keywords, English sentences, and examples agree in meaning? / 题干、思路、关键词、英文句子与例子是否对应？
+- Does language support cover the information needed, and does the demonstrated substitution still answer the question? / 语言支持是否覆盖所需信息，替换结果是否仍回应题目？
+
+Report the affected page or passage and the broken relationship. Compare recorded delivery only when available; otherwise state that it was not checked. These are content judgements, not new guarantees made by the audit script.
+
+报告受影响页码或段落及具体不一致之处；只有实际取得现场资料后才对照教学示范，否则说明未检查。这些属于内容判断，不是机械脚本新增的保证。
+
 ## Mechanical file check / 文件机械检查
 
 When Python and `python-pptx` are available, run the bundled script against the actual PPTX:
@@ -57,6 +70,10 @@ Check the link between aims, input, examples, practice, and feedback. Examine le
 For each finding, state the displayed page number, evidence, consequence, recommended change, and confidence or verification limit. Distinguish a defect from a stylistic preference. For a proposed reordering, explain the learning dependency. A review report should identify its source file/version and whether any edits were performed.
 
 每项问题写明实际页码、依据、影响、修改建议及把握或验证限制。区分缺陷与风格偏好；重排建议应解释学习依赖。报告注明源文件或版本，以及是否实际修改。
+
+When findings come from earlier reviews or recordings, apply [feedback evidence](feedback-evidence.md). Keep the original version/location and distinguish reviewer advice from directly verified facts and the current recommendation.
+
+问题来自早期审查或录音录像时，按[反馈证据](feedback-evidence.md)保留原版本与定位，区分评课者建议、直接核实事实及本次建议。
 
 Before delivery, verify that the saved artifact opens and that the review describes that same artifact. Report incomplete checks rather than inventing a passing score.
 

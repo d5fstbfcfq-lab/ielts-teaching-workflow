@@ -9,14 +9,14 @@ Upload [IELTS-speaking-workflow.md](IELTS-speaking-workflow.md) and the material
 ```text
 Use the uploaded IELTS Speaking Workflow as guidance for my teaching task.
 
-Task: [course planning / lesson design / material organization / slide creation / review / revision / continuation]
+Task: [course planning / lesson design / material organization / slide creation / review / revision / feedback analysis / continuation]
 Learners and current ability: [provide what is known]
 Speaking focus, aim, and duration: [provide what is known]
 Materials: [identify the uploaded or pasted sources and permitted adaptations]
 Deliverable and audience: [state what you want]
 Output language and visual preferences: [state your choices]
 
-Reuse the context already provided. Ask only about missing information that changes the result. Use general CELTA-informed principles where appropriate, without imposing one framework. Check the tools available in this chat. If a PPTX can be created or edited, deliver the actual file and state the checks completed. Otherwise give complete slide content or review recommendations and explicitly say that no PPTX was created or changed. For review-only work, leave the source unchanged. Distinguish official material, adaptations, and AI-authored practice. Do not publish my materials.
+Reuse the context already provided. Ask only about missing information that changes the result. Use general CELTA-informed principles where appropriate, without imposing one framework. Check alignment between the agreed aim, outcome, support, model, and practice. For supplied feedback, distinguish advice, my decisions, direct observations, and analysis, with source locations when available. Check the tools available in this chat. If a PPTX can be created or edited, deliver the actual file and state the checks completed. Otherwise give complete slide content or review recommendations and explicitly say that no PPTX was created or changed. For review-only work, leave the source unchanged. Distinguish official material, adaptations, and AI-authored practice. Do not publish my materials.
 ```
 
 ## 中文提示词
@@ -24,14 +24,14 @@ Reuse the context already provided. Ask only about missing information that chan
 ```text
 请根据已上传的 IELTS Speaking Workflow，协助完成我的教学任务。
 
-任务类型：[课程规划／课次设计／材料整理／课件制作／审查／修改／续做]
+任务类型：[课程规划／课次设计／材料整理／课件制作／审查／修改／反馈分析／续做]
 学员及已知水平：[填写已知信息]
 口语重点、目标和课时：[填写已知信息]
 材料：[注明上传或粘贴的资料及允许的改编范围]
 交付物与读者：[说明需要什么]
 输出语言和视觉偏好：[说明你的选择]
 
-沿用已提供的上下文，只询问影响结果的缺项。按需采用通用 CELTA 教学原则，不强制单一框架。先检查当前对话中的实际工具：能制作或修改 PPTX 时交付真实文件并说明已完成检查；不能时交付完整逐页内容或审查建议，并明确说明未生成或修改 PPTX。仅审查时保留源文件。区分官方材料、改编和 AI 自编练习，不公开我的材料。
+沿用已提供的上下文，只询问影响结果的缺项。按需采用通用 CELTA 教学原则，不强制单一框架。核对已确认目标、输出、支架、示范与练习的一致性；采用所给反馈时，区分建议、我的确认、直接观察与分析，并在可用时记录来源定位。先检查当前对话中的实际工具：能制作或修改 PPTX 时交付真实文件并说明已完成检查；不能时交付完整逐页内容或审查建议，并明确说明未生成或修改 PPTX。仅审查时保留源文件。区分官方材料、改编和 AI 自编练习，不公开我的材料。
 ```
 
 ## ChatGPT project / ChatGPT 项目
