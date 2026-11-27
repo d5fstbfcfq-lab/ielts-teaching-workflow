@@ -16,12 +16,12 @@ Help a teacher move from their own materials and learning aims to usable lesson 
    沿用已确认信息，核对任务、学员需求、可观察目标、课时、材料、读者和交付物。只询问影响结果的缺项；资料充分时直接推进。
 2. Inspect the tools actually available. Use file creation, editing, rendering, browsing, or transcription only when available and needed. Do not assume a host-specific plugin, paid service, local path, or another skill is installed.
    先检查实际工具能力；按需使用文件生成、编辑、渲染、联网或转写能力，不假定已有特定插件、收费服务、本机路径或其他技能。
-3. Read [the workflow](references/workflow.md) for the requested branch. For teaching design or a pedagogical review, also read [CELTA-informed guidance](references/celta.md). For a PPT task, read [quality review](references/quality.md). For exam facts or source handling, read [sources](references/sources.md).
-   按当前任务读取[工作流](references/workflow.md)；教学设计或教学审查加读 [CELTA 指导](references/celta.md)，PPT 任务加读[质量检查](references/quality.md)，考试事实与材料来源处理加读[来源规范](references/sources.md)。
+3. Read [the workflow](references/workflow.md) for the requested branch. For teaching design or a pedagogical review, also read [CELTA-informed guidance](references/celta.md). For a PPT task, read [slide design and presentation](references/slide-presentation.md) and [quality review](references/quality.md). For exam facts or source handling, read [sources](references/sources.md).
+   按当前任务读取[工作流](references/workflow.md)；教学设计或教学审查加读 [CELTA 指导](references/celta.md)，PPT 任务加读[页面设计与呈现](references/slide-presentation.md)及[质量检查](references/quality.md)，考试事实与材料来源处理加读[来源规范](references/sources.md)。
 
-For answer frameworks, model responses, language banks, or substitution practice, read [speaking support](references/speaking-support.md). When interpreting supplied teaching feedback or recordings, read [feedback evidence](references/feedback-evidence.md). These references provide general methods, without bundled lesson examples or a required recording service.
+For core speaking points, answer frameworks, model responses, language banks, or substitution practice, read [speaking support](references/speaking-support.md). When interpreting supplied teaching feedback or recordings, read [feedback evidence](references/feedback-evidence.md). These references provide general methods, without bundled lesson examples or a required recording service.
 
-涉及回答框架、示范、语言库或替换练习时，读取[口语支架](references/speaking-support.md)；解释所给教学反馈或录音录像时，读取[反馈证据](references/feedback-evidence.md)。两份参考提供通用方法，不附课程实例，也不要求特定转写服务。
+涉及核心口语点、回答框架、示范、语言库或替换练习时，读取[口语支架](references/speaking-support.md)；解释所给教学反馈或录音录像时，读取[反馈证据](references/feedback-evidence.md)。两份参考提供通用方法，不附课程实例，也不要求特定转写服务。
 
 ## Keep the output honest / 如实说明交付能力
 
@@ -31,6 +31,8 @@ For answer frameworks, model responses, language banks, or substitution practice
   无文件工具时，提供教案、逐页内容或审查建议，并明确说明尚未生成或修改 PPTX。
 - Without audio or visual access: do not claim to have assessed pronunciation or inspected slide appearance. A transcript supports text analysis; extracted slide text supports content review.
   无音频或视觉访问能力时，不声称已评估发音或检查实际版面。转写文本支持文本分析，提取的幻灯片文字支持内容审查。
+- Check new decks fully and local changes within their impact and dependencies. Keep static inspection and actual PowerPoint playback separate; report unverified display states explicitly.
+  新课件完整检查，局部改动检查影响范围及依赖。区分静态检查与实际 PowerPoint 放映，明确说明未验证的呈现状态。
 
 ## Respect the teacher's choices / 尊重教师的选择
 

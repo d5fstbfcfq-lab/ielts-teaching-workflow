@@ -29,6 +29,10 @@ Package checks verify reference coverage, local links, and bundle synchronizatio
 
 包检查覆盖参考完整性、本地链接和上传文档同步。修改指令时还需复核受影响分支：保持仅审查的边界、按能力交付、尊重教师选择，并区分证据与推论。结构检查通过不能证明教学效果。
 
+For slide-related guidance, preserve the distinction between a display plan, implemented file behaviour, static inspection, and actual PowerPoint playback. Match validation to the change and state any sampled or unavailable coverage. Keep knowledge-library integration optional.
+
+页面相关指导应区分呈现方案、文件实际实现、静态检查与 PowerPoint 实际放映，按改动安排验证并说明抽样或未覆盖项；知识库接入保持可选。
+
 Submit updates on a focused branch with a pull request describing the trigger, resulting behavior, and actual validation. Keep general methods separate from local course facts and personal preferences. Record a change in its canonical reference, rebuild the upload, and wait for the relevant checks before merging.
 
 更新使用范围明确的分支和 Pull Request，说明触发情境、最终行为和实际验证。通用方法与本地课程事实、个人偏好分开；先改主参考，再重建上传文档，相关检查通过后再合并。

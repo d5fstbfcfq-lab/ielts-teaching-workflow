@@ -34,6 +34,21 @@ Provide an IELTS speaking teaching workflow that another teacher can use with th
 - Update the bilingual project introduction and welcome feedback. Use focused branches and pull requests to review maintenance changes alongside the generated document and checks.
   更新中英项目介绍并欢迎反馈；维护通过范围明确的分支和 Pull Request 审查，同时核对生成文档与检查结果。
 
+## Maintenance update: 2026-11-27 / 本轮维护更新
+
+- Support core speaking points with coherent short demonstrations and focused nearby analysis. A suggested 3–4 sentences is adjustable teaching guidance, not an exam rule; related points may share support and necessary full models remain.
+  核心口语点配连贯短示范及邻近的聚焦解析。约 3–4 句为可调整的教学参考，不是考试规则；相近点可共用支架，保留必要完整模型。
+- Add a shared slide reference for editable relationship diagrams, annotations, full display, and teacher-click reveals. Extend the blank outline with initial, click-group, final, and implementation fields.
+  新增页面参考，覆盖可编辑关系图、标注、完整呈现及教师单击揭示；空白提纲补充首屏、单击意义组、最终态与实现状态。
+- Separate design intent, file implementation, static checks, and actual target PowerPoint playback. Report software, pages, states, and gaps; this documentation update is not a playback test of any lesson deck.
+  区分设计意图、文件实现、静态检查与目标 PowerPoint 实际放映，记录软件、页码、状态及缺项；本次文档更新不代表已对教学课件完成放映验证。
+- Check new or broadly changed decks fully and local changes within affected pages and dependencies. Reuse still-valid evidence without treating historical or sampled results as current complete validation.
+  新建或整体变化的课件完整检查，局部改动检查受影响页及依赖；复用仍有效证据，不把历史或抽样结果当作本次完整验收。
+- Make knowledge-library use optional, source-aware, and permission-bound. Project files and uploaded material remain sufficient; do not distribute private libraries or machine paths.
+  知识库接入可选，回查来源并遵循授权；项目文件与上传材料即可使用，不发布私人资料库或本机路径。
+- Synchronize the Codex entry, generated ChatGPT document, bilingual prompts, and review templates. Publish only general methods and blank templates, with no internal package, course examples, or teaching results.
+  同步 Codex 入口、ChatGPT 生成文档、双语提示词及审查模板，仅发布通用方法与空白模板，不发布内部包、课程实例或教学成果。
+
 ## Exclusions / 排除内容
 
 Do not distribute course examples, completed lessons, teaching outcomes, institutional information, personal habits, original question banks, student data, or private records. Listening, reading, and writing workflows are outside this release. Fonts, every-slide images, fixed titles, slide counts, and approval or saving preferences are not universal requirements.

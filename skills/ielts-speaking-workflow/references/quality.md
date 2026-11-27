@@ -4,6 +4,16 @@ Review content, file structure, visual evidence, and teaching design separately.
 
 分别复核内容、文件结构、视觉证据和教学设计，并记录实际检查范围。脚本零发现不能证明教学效果或 PowerPoint 渲染质量。
 
+## Match checks to impact / 按影响范围检查
+
+Fully check a new deck or a change to the overall structure, theme, or substantial content. For a local change, inspect affected pages and necessary dependencies, such as a model used in later practice, shared layout, media, or reveal sequence. Expand the scope if those checks reveal a wider problem. A broad but inexpensive mechanical scan may still be useful; it does not require re-rendering every unchanged page.
+
+新课件，或整体结构、主题、大量内容变化时完整检查。局部改动检查受影响页及必要依赖，如后续练习引用的示范、共用版式、媒体或揭示顺序；发现更大问题时再扩大范围。成本较低的整套机械扫描仍可有用，但不代表必须重渲染全部未改页面。
+
+Reuse earlier results only where the source and relevant dependencies remain unchanged. Record pages and presentation states actually inspected, the environment, and exclusions. Stop once the requested outcome is verified and no new concern remains; a sample or historical pass must not be reported as current full validation.
+
+仅在来源及相关依赖未变时复用旧结果。记录实际查看的页码、呈现状态、环境与未覆盖项；满足目标且没有新增疑点后结束。抽样或历史通过不能写成本次完整验收。
+
 ## Content and sources / 内容与来源
 
 Check source fidelity, question–answer relevance, natural spoken English, suitability for learners, and the distinction between original and adapted material. Confirm that model responses support the intended language or speaking skill. Treat AI estimates as provisional; do not infer pronunciation from a transcript.
@@ -18,6 +28,7 @@ For answer frameworks, models, language banks, or substitution, use [speaking su
 - Can learners turn the structure and support into the intended response? / 学生能否借助结构与支架形成目标回答？
 - Do the question, plan, keywords, English sentences, and examples agree in meaning? / 题干、思路、关键词、英文句子与例子是否对应？
 - Does language support cover the information needed, and does the demonstrated substitution still answer the question? / 语言支持是否覆盖所需信息，替换结果是否仍回应题目？
+- Does each core point have a coherent short model and focused analysis nearby, retaining any needed complete response without low-value repetition? / 核心点是否有邻近的连贯短示范和聚焦解析，保留必要完整回答并减少低增量重复？
 
 Report the affected page or passage and the broken relationship. Compare recorded delivery only when available; otherwise state that it was not checked. These are content judgements, not new guarantees made by the audit script.
 
@@ -51,13 +62,27 @@ Text fit and overlap are estimates. Theme-inherited fonts, rotated text, nested 
 
 ## Visual review / 视觉复核
 
-Render the whole deck using an available tool; inspect the contact sheet and every page at a useful size. Check clipping, line wrapping, missing glyphs, font substitution, contrast, z-order, image crop, hierarchy, page numbering, and consistency. Check changed pages again after a correction. Match the depth to the requested review and disclose pages not seen.
+For a full review, render the deck, inspect its contact sheet, and view every page at a useful size. For a local review, render and inspect affected pages and dependencies. Check clipping, line wrapping, missing glyphs, font substitution, contrast, z-order, image crop, hierarchy, page numbering, and consistency. Recheck corrections and disclose pages not seen.
 
-用可用工具渲染整套课件，查看缩略图并逐页放大，核对截断、换行、缺字、字体替换、对比、层次、裁切、层级、页码及一致性。修复后复核改动页；按任务深度检查，并说明未查看的页面。
+完整检查时渲染整套课件，查看缩略图并逐页放大；局部检查时渲染并查看受影响页及依赖。核对截断、换行、缺字、字体替换、对比、层次、裁切、层级、页码及一致性；修复后复核，并说明未查看页面。
+
+Use [slide design and presentation](slide-presentation.md) to check diagram meaning, editability, readable connectors, and proximity of analysis to the matching model language. Check teaching usefulness and visual hierarchy, not picture counts. A static preview may show only one display state.
+
+按[页面设计与呈现](slide-presentation.md)检查图示意义、可编辑性、连线可读性及解析与示范的对应距离。判断教学用途与视觉层级，不统计图片凑数；静态预览可能只显示一种呈现状态。
 
 If only text extraction is available, label the work a content review. Do not claim visual approval. Report the actual rendering environment; a third-party preview is distinct from testing in the intended classroom software.
 
 只有文字提取能力时，标为内容审查，不宣称视觉通过。说明实际渲染环境，区分第三方预览与目标课堂软件验证。
+
+## PowerPoint playback / PowerPoint 实际放映
+
+Within the impact scope, verify planned full-display and staged pages in the target PowerPoint slide show, following [the presentation checks](slide-presentation.md). Inspect entry, initial screen, each click group, final content, and returning to the page. Check answer timing, retained support, missing objects, obstruction, and triggers; include diagrams and special media where used.
+
+按影响范围，在目标 PowerPoint 实际放映中验证完整呈现及分步页，遵循[呈现检查](slide-presentation.md)。核对页面进入、首屏、每个单击意义组、最终内容及返回该页的表现，检查答案时机、支架保留、漏显、遮挡及触发，并覆盖涉及的图示和特殊媒体。
+
+Record software/version when known, pages, states, and actual results. PNG/PDF output, XML animation tags, or a successful audit are insufficient to pass this check. Without target PowerPoint access, report native playback as unverified and supply a concise handoff checklist; do not label the deck fully validated. For text-only work, record the plan as awaiting file implementation and playback.
+
+记录实际软件及已知版本、页码、状态与结果。PNG/PDF、XML 动画标签或脚本成功均不足以判定此项通过。无法访问目标 PowerPoint 时，将原生放映记为未验证，提供简短交接检查项，不宣称课件完整验收；纯文本工作标为待文件实现与放映。
 
 ## Teaching review / 教学复核
 

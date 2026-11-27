@@ -14,10 +14,12 @@ Blank template. Fill only the fields needed for the task; this contains no lesso
 | Speaking focus and boundaries / 口语重点与范围边界 | |
 | Time and teaching context / 课时与授课情境 | |
 | Supplied materials and versions / 已提供材料及版本 | |
+| Optional knowledge-library entry and permitted updates / 可选知识库入口及允许回写范围 | |
 | Adaptation permissions / 改编权限 | |
 | Requested deliverables and audience / 交付物与读者 | |
 | Output language and visual requirements / 输出语言与视觉要求 | |
 | Tool capabilities and known limits / 工具能力与已知限制 | |
+| Verification scope and target presentation environment / 验证范围与目标放映环境 | |
 | File location and saving preference / 文件位置与保存选择 | |
 | Decisions and unresolved questions / 已确认决定与待确认问题 | |
 | Current status and next step / 当前状态与下一步 | |

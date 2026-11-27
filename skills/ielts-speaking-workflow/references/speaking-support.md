@@ -28,6 +28,20 @@ These functions can overlap; they are teaching choices, not official, exhaustive
 
 这些功能可以重叠，是教学选择，并非官方或穷尽的雅思题型分类。只采用当前任务需要的功能；为学生组织并说出约定的完整回答留出时间，局部句型操练不能替代完整运用。
 
+## Short demonstrations and focused analysis / 短示范与针对性解析
+
+Give each core speaking point or technique a natural, coherent demonstration that learners can understand, imitate, and adapt, with analysis of the relevant choices. A short passage of around 3–4 sentences or a brief dialogue can be a useful starting point; adjust to the learners, aim, and information load. This is a teaching reference, not an exam answer length or sentence quota.
+
+核心口语知识点或技巧配自然连贯、可理解、可模仿和可替换的示范，并解析相关表达选择。通常可从约 3–4 句短段落或简短对话开始，按学生、目标和信息负荷调整；这是教学参考，不是考试答案长度或句数配额。
+
+Focus analysis on the one or two choices being taught: how information answers and develops the question, how a language form conveys meaning, or how planned pauses, stress, and intonation support delivery. Mark the relevant words or thought groups. Delivery markings are teaching suggestions; claims about actual pronunciation require audio evidence.
+
+解析聚焦当前一两个教学点：信息如何回应并展开题目、语言形式怎样表达意义，或拟采用的停顿、重音与语调如何帮助表达。标明对应词句或意群；表达标注是教学建议，对实际发音的判断仍需音频证据。
+
+Place the model and analysis on the relevant slide or an adjacent one, with the necessary question and support available. Related points can share a model when their roles remain clear. Reduce repeated standalone example pages before cutting useful language or shrinking text; retain complete responses and dialogues where the aim needs them. Check that learners can use the model to attempt the associated task.
+
+示范与解析优先放在对应页或紧邻页，及时提供必要题干与支架。相近教学点可共用示范，但各自作用应清楚；优先压缩重复的独立例句页，保留有用语言，避免靠缩小字号容纳内容。目标需要时保留完整回答或对话，并核对学生能否据此尝试相关任务。
+
 ## Keep reasoning and language aligned / 保持思路与语言对应
 
 Trace the question through any first-language plan, keywords, English sentences, and examples. Check that each link preserves the intended meaning and role in the answer; word-for-word translation and memorized delivery are not required. If a reason or example changes, update the connected material within the agreed scope.

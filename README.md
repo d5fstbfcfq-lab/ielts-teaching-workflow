@@ -16,10 +16,10 @@ The first release focuses on **speaking** and covers the full preparation and co
 |---|---|
 | Course and lesson planning | Learner needs, progression, observable outcomes, scope, CELTA-informed methods, and aim-to-practice alignment |
 | Material organization | Source/version register, adaptation boundaries, usable input, and gaps |
-| Slide creation | A usable slide outline; an editable PPTX when the host has suitable file tools |
+| Slide creation | Short models with focused analysis, editable diagrams, and a per-slide display plan; an editable PPTX when suitable file tools are available |
 | Review and revision | Displayed page numbers, evidence, recommendations, and verified changes |
 | Feedback analysis | Source/version and time references; separate advice, teacher decisions, observations, and analysis |
-| Quality checks | Language and teaching review, optional mechanical PPTX checks, and rendered inspection when available |
+| Quality checks | Checks matched to the change, separating content, mechanical, static visual, and actual PowerPoint playback evidence |
 | Continuation | Current artifact, decisions, unresolved items, and next step |
 
 The repository contains instructions, prompts, blank templates, and an optional audit script. It contains **no completed lessons, teaching decks, question banks, student work, institutional material, or private teaching records**. Fonts, titles, images, page counts, frameworks, and saving preferences are chosen for each task.
@@ -30,9 +30,13 @@ The repository contains instructions, prompts, blank templates, and an optional 
 2. Upload it to a regular chat or add it to a project's sources, alongside materials you are entitled to use.
 3. Copy the English or Chinese prompt from [START.md](chatgpt/START.md), fill the relevant fields, and describe your task.
 
-The upload document includes the workflow, CELTA-informed guidance, speaking support, feedback evidence, quality criteria, source boundaries, and blank templates. No custom GPT is required.
+The upload document includes the workflow, CELTA-informed guidance, speaking support, feedback evidence, slide presentation, quality criteria, source boundaries, and blank templates. No custom GPT is required.
 
 When the chat has suitable file tools, request the actual editable PPTX. Otherwise it should provide complete slide content or review recommendations and state that no PPTX was created or changed. Text extraction alone cannot verify slide appearance or pronunciation.
+
+Slides may use full display or teacher-controlled reveals. The workflow records initial, click-group, and final states and requires actual target PowerPoint playback to verify them; static previews cannot pass that check. Unavailable checks remain explicitly unverified. See [slide design and presentation](skills/ielts-speaking-workflow/references/slide-presentation.md) and [review scope](skills/ielts-speaking-workflow/references/quality.md).
+
+A knowledge library is optional. Use your own project files or uploaded materials directly, or connect a library you control and trace relevant notes back to their sources. No Obsidian installation or private library is required; updates to a connected library stay within your permission.
 
 ## Codex quick start
 

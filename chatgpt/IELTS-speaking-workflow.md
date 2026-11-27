@@ -20,12 +20,12 @@ Help a teacher move from their own materials and learning aims to usable lesson 
    沿用已确认信息，核对任务、学员需求、可观察目标、课时、材料、读者和交付物。只询问影响结果的缺项；资料充分时直接推进。
 2. Inspect the tools actually available. Use file creation, editing, rendering, browsing, or transcription only when available and needed. Do not assume a host-specific plugin, paid service, local path, or another skill is installed.
    先检查实际工具能力；按需使用文件生成、编辑、渲染、联网或转写能力，不假定已有特定插件、收费服务、本机路径或其他技能。
-3. Read the workflow for the requested branch. For teaching design or a pedagogical review, also read CELTA-informed guidance. For a PPT task, read quality review. For exam facts or source handling, read sources.
-   按当前任务读取工作流；教学设计或教学审查加读 CELTA 指导，PPT 任务加读质量检查，考试事实与材料来源处理加读来源规范。
+3. Read the workflow for the requested branch. For teaching design or a pedagogical review, also read CELTA-informed guidance. For a PPT task, read slide design and presentation and quality review. For exam facts or source handling, read sources.
+   按当前任务读取工作流；教学设计或教学审查加读 CELTA 指导，PPT 任务加读页面设计与呈现及质量检查，考试事实与材料来源处理加读来源规范。
 
-For answer frameworks, model responses, language banks, or substitution practice, read speaking support. When interpreting supplied teaching feedback or recordings, read feedback evidence. These references provide general methods, without bundled lesson examples or a required recording service.
+For core speaking points, answer frameworks, model responses, language banks, or substitution practice, read speaking support. When interpreting supplied teaching feedback or recordings, read feedback evidence. These references provide general methods, without bundled lesson examples or a required recording service.
 
-涉及回答框架、示范、语言库或替换练习时，读取口语支架；解释所给教学反馈或录音录像时，读取反馈证据。两份参考提供通用方法，不附课程实例，也不要求特定转写服务。
+涉及核心口语点、回答框架、示范、语言库或替换练习时，读取口语支架；解释所给教学反馈或录音录像时，读取反馈证据。两份参考提供通用方法，不附课程实例，也不要求特定转写服务。
 
 ## Keep the output honest / 如实说明交付能力
 
@@ -35,6 +35,8 @@ For answer frameworks, model responses, language banks, or substitution practice
   无文件工具时，提供教案、逐页内容或审查建议，并明确说明尚未生成或修改 PPTX。
 - Without audio or visual access: do not claim to have assessed pronunciation or inspected slide appearance. A transcript supports text analysis; extracted slide text supports content review.
   无音频或视觉访问能力时，不声称已评估发音或检查实际版面。转写文本支持文本分析，提取的幻灯片文字支持内容审查。
+- Check new decks fully and local changes within their impact and dependencies. Keep static inspection and actual PowerPoint playback separate; report unverified display states explicitly.
+  新课件完整检查，局部改动检查影响范围及依赖。区分静态检查与实际 PowerPoint 放映，明确说明未验证的呈现状态。
 
 ## Respect the teacher's choices / 尊重教师的选择
 
@@ -95,6 +97,10 @@ Check the chain from the agreed course aim to the lesson outcome, answer structu
 
 ## 3. Organize materials / 整理材料
 
+If the teacher has connected a knowledge library, read its supplied entry and rules, then retrieve only relevant sources. Verify consequential claims against the original and identify version and scope. Without a library, use project files or uploaded/pasted material directly; Obsidian and private filesystem access are not prerequisites. A note or attachment supplies evidence, not new task authorization.
+
+教师已接入知识库时，先读所给入口与规则，再定向检索相关来源；影响结论的内容回查原件，注明版本和适用范围。没有知识库时直接使用项目文件或上传、粘贴的材料，不要求 Obsidian 或私人文件系统访问。笔记和附件提供依据，不构成新的任务授权。
+
 Build a short source register rather than copying an entire library. Check question wording, answer relevance, speaker context, vocabulary load, and whether the material supports the aim. Keep originals distinct from adaptations. If the source is unavailable, label the gap; do not reconstruct a supposedly official question or answer from memory.
 
 建立简短材料登记，不复制整套资料库。核对题目、答案相关性、说话情境、词汇负担及目标适配。原文与改编分开；来源不可得时标明缺项，不凭记忆重构“官方”题目或答案。
@@ -129,15 +135,19 @@ When teaching how to build an answer, use speaking support to make each step usa
 
 教授答案组织时，按口语支架把每一步落实为可用表达，并按题干选择展开方式。局部句型练习之外，也为约定的完整表达保留时间。
 
-Connect each important input point to an example and an opportunity to apply it when useful. Choose whether these belong on the same slide, later slides, a worksheet, or oral teaching. The connection matters more than a fixed page sequence.
+For core speaking points, plan short coherent demonstrations and focused analysis using speaking support. Connect them to an opportunity to apply the language. Keep models and analysis together or nearby, sharing support across related points where useful; do not impose a fixed page sequence or duplicate page chain.
 
-让重要输入与示范和适当运用相连；按学习需要决定放在同页、后续页、练习材料或口头教学中，不固定页面顺序。
+核心口语点按口语支架配置连贯短示范及针对性解析，并连接语言运用机会。示范与解析同页或邻近安排，相近点可共用支架，不强制固定页序或重复页链。
 
 ## 5. Draft slides and teacher guidance / 编写课件与教师支持
 
 Draft an outline with page purpose, learner-visible content, supporting visuals, and any dependencies. Keep language natural, specific, and reusable. Model responses should demonstrate useful choices at an appropriate level; describe any estimated band as provisional rather than a guaranteed score.
 
 逐页写明用途、学生可见内容、视觉支持和前后依赖。语言自然、具体且可替换；参考回答用于展示合适水平的表达选择，任何估计分数都应说明只是参考，不能保证成绩。
+
+Use slide design and presentation to select editable diagrams or annotations for the relationship being taught. Record full display or staged reveal for each slide; staged pages need an initial screen, ordered teacher-click groups, and a final state. Keep necessary questions and support visible and time reference answers to the learning task. Keep the presentation plan in the working outline.
+
+按页面设计与呈现，根据所教关系选择可编辑图示或标注。逐页记录完整呈现或分步揭示；分步页写明首屏、教师单击意义组及最终态。及时显示必要题干和支架，按学习用途安排参考答案时机，呈现方案保留在工作提纲中。
 
 In Chinese workflow guidance, use “口语技巧” for speaking techniques and “实用例句” for reusable example sentences. Choose slide titles and the placement of these elements for the teacher's brief; the terminology does not impose fixed page titles or one page per element.
 
@@ -157,19 +167,27 @@ Use relevant visuals where they help comprehension. A text-only slide can be app
 
 配图以帮助理解为目的，纯文字页面也可以合理。优先保证投影可读、语言准确、层级清晰和任务空间，不为固定版式压缩必要内容。
 
+Implement the agreed presentation sequence in the actual PPTX and verify it as described in slide design and presentation. Disclose any unimplemented reveals or flattened diagrams; a rendered preview does not prove click behaviour. If only text can be delivered, include visual and reveal build instructions and identify them as awaiting implementation.
+
+把约定呈现顺序落实到实际 PPTX，并按页面设计与呈现核验。说明未实现的揭示或扁平化图示，渲染预览不能证明单击行为。仅能交付文本时，附图示和揭示制作说明，并标明尚待制作。
+
 Without file tools, provide a complete slide outline with ready-to-use text and build instructions. Do not create a fake download link or imply that changing the filename of a text document creates a PPTX.
 
 没有文件工具时，交付完整逐页内容和制作说明；不得编造下载链接，也不得把文本改扩展名当作 PPTX。
 
 ## 7. Review and finish / 复核与完成
 
-Check source fidelity, language, learning progression, actual file integrity, mechanical findings, and rendered appearance at their respective levels. Revise within the requested scope. For review-only work, provide recommendations without editing. Refer to the quality guide for page evidence and limitations.
+Check source fidelity, language, learning progression, actual file integrity, mechanical findings, rendered appearance, and PowerPoint playback as distinct evidence. New decks or broad structural, theme, or content changes need a full review; local changes need affected pages and dependencies, reusing still-valid evidence elsewhere. Revise within the requested scope. For review-only work, provide recommendations without editing. Refer to the quality guide for page/state evidence and limitations.
 
-分别检查来源、语言、教学进阶、实际文件、机械结果及渲染效果，在约定范围内修复。仅审查任务只给建议，不修改文件。页码证据和能力限制见质量指南。
+分别检查来源、语言、教学进阶、实际文件、机械结果、渲染效果与 PowerPoint 放映。新课件或结构、主题、大量内容变化时完整检查；局部改动检查受影响页及依赖，复用其他仍有效的证据。在约定范围内修复；仅审查时只给建议。页码、状态证据和能力限制见质量指南。
 
 Finish with the actual deliverable or its text, what changed, checks completed, meaningful limitations, and unresolved questions. Keep a minimal continuation note with the current file/version, aim, decisions, and next step only when work continues. Creating local teaching files does not authorize publishing them to this repository.
 
 交付实际文件或文本，并说明改动、已完成检查、实质限制及未解决事项。需要续做时，简记当前文件或版本、目标、决定及下一步。本地生成教学文件不代表授权将它们发布到本仓库。
+
+For an already connected knowledge library, update only the relevant artifact pointer, sources, confirmed decisions, and actual verification within the teacher's authorization. Preserve manual edits and distinguish completed work from proposals. Otherwise keep any needed continuation note with the project; do not create a library as a prerequisite.
+
+已接入知识库时，在教师授权内最小更新相关成果位置、来源、已确认决定及真实验证，保留手动编辑，区分已完成工作与建议。未接库时，将必要续做记录留在项目中，不为使用工作流强建资料库。
 
 ---
 
@@ -269,6 +287,20 @@ These functions can overlap; they are teaching choices, not official, exhaustive
 
 这些功能可以重叠，是教学选择，并非官方或穷尽的雅思题型分类。只采用当前任务需要的功能；为学生组织并说出约定的完整回答留出时间，局部句型操练不能替代完整运用。
 
+## Short demonstrations and focused analysis / 短示范与针对性解析
+
+Give each core speaking point or technique a natural, coherent demonstration that learners can understand, imitate, and adapt, with analysis of the relevant choices. A short passage of around 3–4 sentences or a brief dialogue can be a useful starting point; adjust to the learners, aim, and information load. This is a teaching reference, not an exam answer length or sentence quota.
+
+核心口语知识点或技巧配自然连贯、可理解、可模仿和可替换的示范，并解析相关表达选择。通常可从约 3–4 句短段落或简短对话开始，按学生、目标和信息负荷调整；这是教学参考，不是考试答案长度或句数配额。
+
+Focus analysis on the one or two choices being taught: how information answers and develops the question, how a language form conveys meaning, or how planned pauses, stress, and intonation support delivery. Mark the relevant words or thought groups. Delivery markings are teaching suggestions; claims about actual pronunciation require audio evidence.
+
+解析聚焦当前一两个教学点：信息如何回应并展开题目、语言形式怎样表达意义，或拟采用的停顿、重音与语调如何帮助表达。标明对应词句或意群；表达标注是教学建议，对实际发音的判断仍需音频证据。
+
+Place the model and analysis on the relevant slide or an adjacent one, with the necessary question and support available. Related points can share a model when their roles remain clear. Reduce repeated standalone example pages before cutting useful language or shrinking text; retain complete responses and dialogues where the aim needs them. Check that learners can use the model to attempt the associated task.
+
+示范与解析优先放在对应页或紧邻页，及时提供必要题干与支架。相近教学点可共用示范，但各自作用应清楚；优先压缩重复的独立例句页，保留有用语言，避免靠缩小字号容纳内容。目标需要时保留完整回答或对话，并核对学生能否据此尝试相关任务。
+
 ## Keep reasoning and language aligned / 保持思路与语言对应
 
 Trace the question through any first-language plan, keywords, English sentences, and examples. Check that each link preserves the intended meaning and role in the answer; word-for-word translation and memorized delivery are not required. If a reason or example changes, update the connected material within the agreed scope.
@@ -340,11 +372,77 @@ Reuse a verified transcript and useful location records. Reprocess only unresolv
 
 ---
 
+# Slide design and presentation / 页面设计与呈现
+
+Use for slide planning, creation, or review. Record design decisions in the existing outline or working record; showing that record to students needs a teaching purpose agreed with the teacher.
+
+用于逐页设计、制作或审查。在现有提纲或工作记录中保留设计决定；向学生展示这些记录应有与教师约定的教学用途。
+
+## Visuals that explain / 用视觉说明关系
+
+Give each slide a clear hierarchy and a visual purpose connected to the learning task. Choose photographs for useful context or observation; a picture count is not a quality measure. Avoid defaulting to stacked text boxes or decorative images.
+
+每页应有清楚的层级，以及与学习任务相连的视觉用途。照片用于有价值的情境或观察，不以图片数量判断质量；避免默认堆叠文本框或添加装饰图片。
+
+| Relationship / 关系 | Form to consider / 可选形式 |
+|---|---|
+| Categories and supporting details / 分类与支持细节 | Tree or grouped branches / 树状图或分组分支 |
+| Sequence, cause, or consequence / 顺序、原因或结果 | Flow or cause-and-effect diagram / 流程或因果图 |
+| Similarities and differences / 异同 | Comparison on shared dimensions / 共同维度上的对照 |
+| Order in time / 时间先后 | Timeline / 时间轴 |
+| Connections among ideas / 概念联系 | Concept map / 概念图 |
+| Language choices and delivery / 语言选择与表达方式 | Phrase or sentence annotation / 词组或句段标注 |
+
+Use native editable text, shapes, connectors, and tables for relationships that teachers need to revise. Keep labels, arrows, grouping, and colour meaningful. If a tool can only flatten a diagram, disclose that editing limit and provide its editable source when available.
+
+教师需要继续修改的关系图优先使用原生可编辑文字、形状、连线和表格。标签、箭头、分组与颜色应有明确意义；工具只能生成扁平图像时，说明编辑限制，有可编辑源文件时一并提供。
+
+Place focused analysis close to the relevant model language or diagram node. Keep the short demonstration and any necessary complete response: keywords in a diagram do not replace language learners need to imitate and adapt. Change composition when the relationship needs it, rather than varying backgrounds for their own sake.
+
+聚焦解析靠近对应示范词句或图示节点。保留短示范及必要完整回答，图示关键词不能替代学生模仿与替换所需的语言。按关系需要调整构图，不为变化而切换背景。
+
+## Plan every slide's display / 逐页设计呈现
+
+For each new or affected slide, choose **full display** or **staged reveal**. In the outline, record the purpose of full display; for staged reveal, record the initial screen, click groups in order, and final retained content. Slides serving the same purpose can share a short rationale.
+
+为每张新建或受影响页面选择**一次完整呈现**或**分步揭示**。提纲中注明完整呈现的用途；分步页记录首屏、依次单击的意义组及最终保留内容。用途相同的页面可共用简短说明。
+
+- Keep the question, current task, and necessary language support visible when learners need them. / 学生需要时，及时显示题干、当前任务及必要语言支架。
+- When learners should judge or try first, reveal analysis and reference answers afterwards. A model intended for observation may be fully visible from the start. / 需要学生先判断或尝试时，延后揭示解析与参考答案；供观察学习的示范可先完整显示。
+- Group nodes, connectors, and corresponding language by meaning. Retain key information already shown for comparison. Do not assign a click to every word or sentence mechanically. / 节点、连线与对应语言按意义分组，保留已显示的关键信息供对照，不机械地逐词逐句增加点击。
+- Default to teacher-controlled clicks with simple appearance or a short fade. Use timed progression only when the agreed task needs it. Full display remains a valid choice. / 默认教师单击控制，采用简单出现或短淡入；仅在约定任务需要时使用定时推进，一次完整呈现仍是有效选择。
+
+## Build and verify the actual file / 落实到实际文件并验收
+
+When producing a PPTX, implement the agreed display sequence in the file. An outline describing reveals does not establish that they work. If the available tool cannot implement them, state the gap, provide build instructions, and identify any proposed alternative and its teaching effect before changing the agreed interaction. With text-only delivery, label the sequence as a plan awaiting implementation.
+
+制作 PPTX 时，将约定的呈现顺序落实到文件。提纲写了揭示顺序不等于实际可用。工具无法实现时，说明缺项、提供制作说明，并在改变约定互动前说明替代方案及教学影响；纯文本交付时，标为待制作的呈现方案。
+
+Within the review scope, test in the target **PowerPoint slide show**: slide entry, initial screen, each click group, final state, and returning to the slide. Check answer timing, missing content, obstruction, triggers, and needed support, including diagrams and special media. Record the actual software, pages, and states inspected; a sample is not a full-deck pass.
+
+按检查范围，在目标 **PowerPoint 实际放映**中核对页面进入、首屏、每次意义组揭示、最终态及返回该页的表现。检查答案时机、漏显、遮挡、触发与支架，覆盖图示及特殊媒体。记录实际软件、页码与状态，抽样不能写成整套通过。
+
+Static PNG/PDF previews, animation XML, and mechanical checks cannot establish playback correctness. If target PowerPoint is unavailable, report what was checked and leave native playback unverified. When a static export is requested, retain the complete learning content or necessary key states.
+
+静态 PNG/PDF、动画 XML 和机械检查均不能证明放映正确。无法使用目标 PowerPoint 时，说明已有检查，将原生放映保留为未验证；需要静态导出时，保留完整学习内容或必要关键状态。
+
+---
+
 # Quality review / 质量检查
 
 Review content, file structure, visual evidence, and teaching design separately. Record what was actually inspected. A clean script report does not establish teaching effectiveness or PowerPoint rendering quality.
 
 分别复核内容、文件结构、视觉证据和教学设计，并记录实际检查范围。脚本零发现不能证明教学效果或 PowerPoint 渲染质量。
+
+## Match checks to impact / 按影响范围检查
+
+Fully check a new deck or a change to the overall structure, theme, or substantial content. For a local change, inspect affected pages and necessary dependencies, such as a model used in later practice, shared layout, media, or reveal sequence. Expand the scope if those checks reveal a wider problem. A broad but inexpensive mechanical scan may still be useful; it does not require re-rendering every unchanged page.
+
+新课件，或整体结构、主题、大量内容变化时完整检查。局部改动检查受影响页及必要依赖，如后续练习引用的示范、共用版式、媒体或揭示顺序；发现更大问题时再扩大范围。成本较低的整套机械扫描仍可有用，但不代表必须重渲染全部未改页面。
+
+Reuse earlier results only where the source and relevant dependencies remain unchanged. Record pages and presentation states actually inspected, the environment, and exclusions. Stop once the requested outcome is verified and no new concern remains; a sample or historical pass must not be reported as current full validation.
+
+仅在来源及相关依赖未变时复用旧结果。记录实际查看的页码、呈现状态、环境与未覆盖项；满足目标且没有新增疑点后结束。抽样或历史通过不能写成本次完整验收。
 
 ## Content and sources / 内容与来源
 
@@ -360,6 +458,7 @@ For answer frameworks, models, language banks, or substitution, use speaking sup
 - Can learners turn the structure and support into the intended response? / 学生能否借助结构与支架形成目标回答？
 - Do the question, plan, keywords, English sentences, and examples agree in meaning? / 题干、思路、关键词、英文句子与例子是否对应？
 - Does language support cover the information needed, and does the demonstrated substitution still answer the question? / 语言支持是否覆盖所需信息，替换结果是否仍回应题目？
+- Does each core point have a coherent short model and focused analysis nearby, retaining any needed complete response without low-value repetition? / 核心点是否有邻近的连贯短示范和聚焦解析，保留必要完整回答并减少低增量重复？
 
 Report the affected page or passage and the broken relationship. Compare recorded delivery only when available; otherwise state that it was not checked. These are content judgements, not new guarantees made by the audit script.
 
@@ -393,13 +492,27 @@ Text fit and overlap are estimates. Theme-inherited fonts, rotated text, nested 
 
 ## Visual review / 视觉复核
 
-Render the whole deck using an available tool; inspect the contact sheet and every page at a useful size. Check clipping, line wrapping, missing glyphs, font substitution, contrast, z-order, image crop, hierarchy, page numbering, and consistency. Check changed pages again after a correction. Match the depth to the requested review and disclose pages not seen.
+For a full review, render the deck, inspect its contact sheet, and view every page at a useful size. For a local review, render and inspect affected pages and dependencies. Check clipping, line wrapping, missing glyphs, font substitution, contrast, z-order, image crop, hierarchy, page numbering, and consistency. Recheck corrections and disclose pages not seen.
 
-用可用工具渲染整套课件，查看缩略图并逐页放大，核对截断、换行、缺字、字体替换、对比、层次、裁切、层级、页码及一致性。修复后复核改动页；按任务深度检查，并说明未查看的页面。
+完整检查时渲染整套课件，查看缩略图并逐页放大；局部检查时渲染并查看受影响页及依赖。核对截断、换行、缺字、字体替换、对比、层次、裁切、层级、页码及一致性；修复后复核，并说明未查看页面。
+
+Use slide design and presentation to check diagram meaning, editability, readable connectors, and proximity of analysis to the matching model language. Check teaching usefulness and visual hierarchy, not picture counts. A static preview may show only one display state.
+
+按页面设计与呈现检查图示意义、可编辑性、连线可读性及解析与示范的对应距离。判断教学用途与视觉层级，不统计图片凑数；静态预览可能只显示一种呈现状态。
 
 If only text extraction is available, label the work a content review. Do not claim visual approval. Report the actual rendering environment; a third-party preview is distinct from testing in the intended classroom software.
 
 只有文字提取能力时，标为内容审查，不宣称视觉通过。说明实际渲染环境，区分第三方预览与目标课堂软件验证。
+
+## PowerPoint playback / PowerPoint 实际放映
+
+Within the impact scope, verify planned full-display and staged pages in the target PowerPoint slide show, following the presentation checks. Inspect entry, initial screen, each click group, final content, and returning to the page. Check answer timing, retained support, missing objects, obstruction, and triggers; include diagrams and special media where used.
+
+按影响范围，在目标 PowerPoint 实际放映中验证完整呈现及分步页，遵循呈现检查。核对页面进入、首屏、每个单击意义组、最终内容及返回该页的表现，检查答案时机、支架保留、漏显、遮挡及触发，并覆盖涉及的图示和特殊媒体。
+
+Record software/version when known, pages, states, and actual results. PNG/PDF output, XML animation tags, or a successful audit are insufficient to pass this check. Without target PowerPoint access, report native playback as unverified and supply a concise handoff checklist; do not label the deck fully validated. For text-only work, record the plan as awaiting file implementation and playback.
+
+记录实际软件及已知版本、页码、状态与结果。PNG/PDF、XML 动画标签或脚本成功均不足以判定此项通过。无法访问目标 PowerPoint 时，将原生放映记为未验证，提供简短交接检查项，不宣称课件完整验收；纯文本工作标为待文件实现与放映。
 
 ## Teaching review / 教学复核
 
@@ -474,10 +587,12 @@ Blank template. Fill only the fields needed for the task; this contains no lesso
 | Speaking focus and boundaries / 口语重点与范围边界 | |
 | Time and teaching context / 课时与授课情境 | |
 | Supplied materials and versions / 已提供材料及版本 | |
+| Optional knowledge-library entry and permitted updates / 可选知识库入口及允许回写范围 | |
 | Adaptation permissions / 改编权限 | |
 | Requested deliverables and audience / 交付物与读者 | |
 | Output language and visual requirements / 输出语言与视觉要求 | |
 | Tool capabilities and known limits / 工具能力与已知限制 | |
+| Verification scope and target presentation environment / 验证范围与目标放映环境 | |
 | File location and saving preference / 文件位置与保存选择 | |
 | Decisions and unresolved questions / 已确认决定与待确认问题 | |
 | Current status and next step / 当前状态与下一步 | |
@@ -502,9 +617,23 @@ Use one row per intended slide. Keep teacher guidance separate when the audience
 
 每个拟制作页面填写一行；按读者和任务需要单独记录教师支持。
 
+Record short demonstrations, focused analysis, and the practice they support in the relevant content row. Related points may share a model. Identify the learning relationship and editable form in the visual intent.
+
+在对应内容栏记录短示范、针对性解析及其支持的练习；相近点可共用示范。视觉意图注明学习关系及可编辑形式。
+
 | Page / 页码 | Purpose / 用途 | Title / 标题 | Learner-visible text / 学生可见内容 | Visual intent / 视觉意图 | Source/adaptation / 来源与改编 | Dependency / 前后依赖 |
 |---|---|---|---|---|---|---|
 | | | | | | | |
+
+## Display plan / 呈现方案
+
+Cover every new or affected slide. Use full display or staged reveal; record a purpose for full display and the initial screen, ordered teacher-click groups, and final retained content for staged pages. Keep questions and necessary support available. This table is a plan, not proof of implemented or tested playback.
+
+覆盖每张新建或受影响页，选择完整呈现或分步揭示。完整页注明用途；分步页记录首屏、依次单击的意义组及最终保留内容，及时提供题干和必要支架。本表是设计方案，不代表已在文件实现或通过放映。
+
+| Page / 页码 | Mode and purpose / 模式与用途 | Initial screen / 首屏 | Ordered click groups / 单击意义组顺序 | Final retained content / 最终保留内容 | Implementation or limit / 实现状态或限制 |
+|---|---|---|---|---|---|
+| | | | | | |
 
 ## Requested teacher guidance / 按要求提供的教师支持
 
@@ -521,7 +650,9 @@ Use one row per intended slide. Keep teacher guidance separate when the audience
 | Source file/version / 源文件或版本 | |
 | Aim and audience / 目标与读者 | |
 | Review scope and displayed pages / 范围与实际页码 | |
+| Full or local check and dependency rationale / 完整或局部检查及依赖依据 | |
 | Text/file/rendering environment / 文本、文件或渲染环境 | |
+| Target PowerPoint and version, if known / 目标 PowerPoint 及已知版本 | |
 | Whether edits were made / 是否已修改 | |
 | Incomplete checks / 未完成检查 | |
 
@@ -541,9 +672,13 @@ Keep advice, teacher decisions, direct observations, and analysis distinct. Leav
 
 ## Verification after revision / 修改后的复核
 
-| Actual deliverable / 实际成品 | Checks completed / 已完成检查 | Outstanding items / 遗留事项 |
-|---|---|---|
-| | | |
+Distinguish content, mechanical, static visual, and actual playback evidence. Reuse prior evidence only for unchanged content and dependencies. For playback, record slide entry, initial screen, click groups, final state, and return behaviour. Mark unavailable checks as unverified, or as not applicable with a reason.
+
+区分内容、机械、静态视觉与实际放映证据，仅在内容及依赖未变时复用旧结果。放映记录包含页面进入、首屏、单击意义组、最终态及返回表现。无法执行的检查记为未验证；不适用时说明理由。
+
+| Actual file/version / 实际文件或版本 | Evidence type and environment / 证据类型与环境 | Pages/states inspected / 已检查页码与状态 | Result and outstanding items / 结果与遗留事项 |
+|---|---|---|---|
+| | | | |
 
 ---
 
